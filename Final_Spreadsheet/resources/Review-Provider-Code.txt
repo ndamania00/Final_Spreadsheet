@@ -1,0 +1,33 @@
+Design critique:
+
+The model and controller design are very straight forward and do not have any unuseful methods
+that would make an impossible or useless implementation. Our design choices where also very
+similar which accounted for a fairly straightforward implementation of the model and controller.
+The view code is not quite as intuitive as the model and view since they had a separate
+class for drawing the sheet. I can see, however, that the idea behind that design is to minimize 
+the duplicate code for creating the same JFrame over and over for different views.
+Overall the group did a really good job with providing us a very well designed code.
+
+Implementation critique:
+
+The only critique, in my opinion, comes from modifying the Coord class with two additional methods
+which made it necessary to ask for their code of the Coord class implementation because otherwise we
+would not have been able to run the view.
+
+Documentation critique:
+
+The provided JavaDoc and README were very helpful in understanding the design choices that where
+being made. There is nothing to complain about.
+
+Design/code limitations and suggestions:
+
+I don't see any limitations in the provided design but I think it would not have been necessary
+to modify the Coord class. I can understand that it was convenient for their implementation 
+but can make it more difficult for us if we don't know about it.
+
+
+In general, we were very happy with the code given to us. All interfaces were very flexible the 
+documentation very straight forward to understand and it very easy to reuse. It is also worth mentioning 
+that they did a great job communicating with us. For every question we had they responded
+withing a few minutes which sufficient information which allowed for an effortless workflow during 
+the implementation process.

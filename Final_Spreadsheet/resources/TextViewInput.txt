@@ -1,0 +1,15 @@
+A1 5
+A2 =3.5
+A3 =7.2345
+B1 "Hello"
+B2 WhatsUp
+B3 "\"Hello\""
+B4 false
+B5 true
+B6 =true
+C1 =A1
+C2 A2
+D1 =(SUM A1 B1 C2)
+D2 (CONCAT A1 B2 C2)
+D3 =(SUM A1:A4)
+

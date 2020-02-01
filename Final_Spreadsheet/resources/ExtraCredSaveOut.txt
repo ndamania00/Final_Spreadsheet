@@ -1,0 +1,6 @@
+A2 =A1
+C3 =(SUM 3 A3)
+J15 129
+A3 "Hello"
+D6 =(SUM A2 4)
+B4 A3
