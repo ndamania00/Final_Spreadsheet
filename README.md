@@ -1,4 +1,4 @@
-# Final_Spreadsheet
+# Spreadsheet
 
 Spreadsheet application built in Java with similar functionalities to Excel. Detects cycles, references other cells, graphs data.
 
